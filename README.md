@@ -1,4 +1,4 @@
-# Writing JSX
+# Writing JSX c
 
 ## Learning Goals
 
